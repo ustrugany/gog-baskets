@@ -1,0 +1,18 @@
+{
+    "name": "piotras/tdd-kata-0",
+    "description": "tdd kata",
+    "require": {
+        "phpunit/phpunit": "^5.2"
+    },
+    "autoload": {
+      "psr-0": {
+        "Gog": "src/"
+      }
+    },
+    "authors": [
+        {
+            "name": "Piotr Strugacz",
+            "email": "strugacz.piotr@gmail.com"
+        }
+    ]
+}
